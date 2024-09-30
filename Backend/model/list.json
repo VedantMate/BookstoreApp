@@ -1,0 +1,115 @@
+[
+    {
+      "id": 1,
+      "name": "The Great Gatsby",
+      "price": 10.99,
+      "category": "Free",
+      "image": "https://cdn.kobo.com/book-images/2411acbb-9daa-43fb-a5a2-a9aec064e17e/1200/1200/False/the-great-gatsby-238.jpg",
+      "title": "Classic Novel"
+    },
+    {
+      "id": 2,
+      "name": "1984",
+      "price": 8.99,
+      "category": "Free",
+      "image": "https://m.media-amazon.com/images/I/713jIoMO3UL._AC_UF1000,1000_QL80_.jpg",
+      "title": "Political Fiction"
+    },
+    {
+      "id": 3,
+      "name": "Sapiens: A Brief History of Humankind",
+      "price": 15.50,
+      "category": "Free",
+      "image": "https://m.media-amazon.com/images/I/713jIoMO3UL._AC_UF1000,1000_QL80_.jpg",
+      "title": "History"
+    },
+    {
+      "id": 4,
+      "name": "The Pragmatic Programmer",
+      "price": 29.99,
+      "category": "Free",
+      "image": "https://www.oreilly.com/api/v2/epubs/020161622X/files/graphics/9780132119177.jpg",
+      "title": "Software Development"
+    },
+    {
+      "id": 5,
+      "name": "To Kill a Mockingbird",
+      "price": 12.99,
+      "category": "Free",
+      "image": "https://cdn.britannica.com/21/182021-050-666DB6B1/book-cover-To-Kill-a-Mockingbird-many-1961.jpg",
+      "title": "Historical Fiction"
+    },
+    {
+      "id": 6,
+      "name": "The Art of War",
+      "price": 0.00,
+      "category": "Free",
+      "image": "https://m.media-amazon.com/images/I/71MizulW5AL._AC_UF1000,1000_QL80_.jpg",
+      "title": "Military Strategy"
+    },
+    {
+      "id": 7,
+      "name": "Pride and Prejudice",
+      "price": 0.00,
+      "category": "Free",
+      "image": "https://m.media-amazon.com/images/I/91eKRbuhgaL._AC_UF1000,1000_QL80_.jpg",
+      "title": "Romance"
+    },
+    {
+      "id": 8,
+      "name": "The Alchemist",
+      "price": 0.00,
+      "category": "Free",
+      "image": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1654371463i/18144590.jpg",
+      "title": "Adventure"
+    },
+    {
+      "id": 9,
+      "name": "Dracula",
+      "price": 0.00,
+      "category": "Free",
+      "image": "https://cdn.kobo.com/book-images/d3d21815-20de-42d2-91ac-25a1e03bc9ad/1200/1200/False/dracula-791.jpg",
+      "title": "Gothic Horror"
+    },
+    {
+      "id": 10,
+      "name": "Frankenstein",
+      "price": 0.00,
+      "category": "Free",
+      "image": "https://m.media-amazon.com/images/I/81TVqiv-ctL._AC_UF1000,1000_QL80_.jpg",
+      "title": "Science Fiction"
+    },
+    {
+      "id": 11,
+      "name": "Alice's Adventures in Wonderland",
+      "price": 0.00,
+      "category": "Free",
+      "image": "https://wordsworth-editions.com/wp-content/uploads/2021/03/Alice-in-Wonderland-EC-head_on.jpg",
+      "title": "Fantasy"
+    },
+    {
+      "id": 12,
+      "name": "The Odyssey",
+      "price": 0.00,
+      "category": "Free",
+      "image": "https://m.media-amazon.com/images/I/81kLSHHjn-L._AC_UF1000,1000_QL80_.jpg",
+      "title": "Epic Poetry"
+    },
+    {
+      "id": 13,
+      "name": "The Count of Monte Cristo",
+      "price": 0.00,
+      "category": "Free",
+      "image": "https://m.media-amazon.com/images/I/61ZahemCAeL._AC_UF1000,1000_QL80_.jpg",
+      "title": "Adventure"
+    },
+    {
+      "id": 14,
+      "name": "The Adventures of Sherlock Holmes",
+      "price": 0.00,
+      "category": "Free",
+      "image": "https://m.media-amazon.com/images/I/71tvs98+5vL._AC_UF1000,1000_QL80_.jpg",
+      "title": "Mystery"
+    }
+  ]
+  
